@@ -1,0 +1,12 @@
+<div class="flex flex-col items-center justify-center w-9/12 h-[30rem] mx-[12rem] bg-[url('./img/slide.jpg')] rounded-tr-[5rem] rounded-bl-[5rem] shadow-2xl opacity-75 hover:opacity-100 group">
+                    
+
+                    <div class="font-extrabold text-violet-50 text-center w-7/12 text-4xl group-hover:text-black group-hover:scale-110">
+                        <strong>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores, soluta, porro veniam nihil </strong>
+                    </div>
+
+                    <div class="text-violet-50 w-6/12 text-center flex p-5 group-hover:text-black group-hover:scale-110">
+                        <small>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet quasi ratione dolores dignissimos, tempore aliquam tempora beatae accusantium rem nostrum culpa corporis iure commodi temporibus deserunt earum doloremque unde sequi.</small>
+                    </div>
+
+                </div>
